@@ -37,7 +37,7 @@ PIXIE는 Raspberry Pi 4를 이용한 딥러닝 영상 처리 기반 쓰레기 �
       * SSD 알고리즘
 
   3. App
-      - UI & Logo https://www.figma.com/
+      - UI & Logo https://www.figma.com/file/F4vtMtcTMxIeKlkhGeQIvE/PIXIE?node-id=0%3A1
       - aws 데이터베이스
 
   4. 공모전, SW 저작권, 특허

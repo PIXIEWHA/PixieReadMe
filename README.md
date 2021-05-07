@@ -28,7 +28,7 @@ PIXIE는 Raspberry Pi 4를 이용한 딥러닝 영상 처리 기반 쓰레기 �
       - 영상 연동
 
   2. SW 알고리즘
-      * YOLO 알고리즘 https://colab.research.google.com/drive/1Gw37ofc05NfqeeLZnZB_YjN0Ea9QPQL5#scrollTo=lFTDOtVLGoLb
+      * YOLO 알고리즘 https://colab.research.google.com/drive/1Gw37ofc05NfqeeLZnZB_YjN0Ea9QPQL5?usp=sharing
         - <strike> 모델 학습 코드 실행</strike>
         - 데이터 크롤링
         - 쓰레기 및 사람 & 쓰레기 무단 투기 행위 학습

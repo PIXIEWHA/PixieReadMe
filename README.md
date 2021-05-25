@@ -43,7 +43,7 @@ PIXIE는 Raspberry Pi 4를 이용한 딥러닝 영상 처리 기반 쓰레기 �
   4. 공모전, SW 저작권, 특허
 
 ## 😀 기술 블로그
-
+https://whyou-story.tistory.com/34
 
 ## 📁 References
 

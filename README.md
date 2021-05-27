@@ -19,6 +19,9 @@ PIXIE는 Raspberry Pi 4를 이용한 딥러닝 영상 처리 기반 쓰레기 �
 |1876264|이민영|
 |1971030|유현정|
 
+## 📁 Requirement Specification
+![image](https://user-images.githubusercontent.com/67186222/119847320-d90ba600-bf45-11eb-84c9-e648fb23d688.png)
+
 ## 📲 System Architecture
 ![image](https://user-images.githubusercontent.com/67186222/117320715-759ed300-aec7-11eb-8abe-a3721b39b437.png)
 
@@ -45,7 +48,5 @@ PIXIE는 Raspberry Pi 4를 이용한 딥러닝 영상 처리 기반 쓰레기 �
 - 유현정</br>
 [[21-1 캡B] 0. 영상 데이터 프레임 추출](https://whyou-story.tistory.com/34)</br>
 [[21-1 캡B] 1. Colab을 이용한 YOLOv5 Custom 학습 및 Inference](https://whyou-story.tistory.com/35)</br>
-
-## 📁 References
 
 

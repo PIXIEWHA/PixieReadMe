@@ -50,4 +50,7 @@ PIXIE는 Raspberry Pi 4를 이용한 딥러닝 영상 처리 기반 쓰레기 �
 [[21-1 캡B] 1. Colab을 이용한 YOLOv5 Custom 학습 및 Inference](https://whyou-story.tistory.com/35)</br>
 
 - 정해인</br>
-[[2021-1] SSD 알고리즘을 통한 Object Detection](https://study-ai-eun.tistory.com/1)
+[[2021-1] SSD 알고리즘을 통한 Object Detection](https://study-ai-eun.tistory.com/1)</br>
+
+- 이민영</br>
+[Python, OpenPose를 활용하여 인체의 자세 감지하기](https://mignon-cs.tistory.com/2)

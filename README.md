@@ -1,7 +1,5 @@
 ## ❤️ 2021-1 캡스톤디자인프로젝트B : 쓰레기 무단 투기 감시 시스템(PIXIE)
-
-로고
-
+<img src="https://user-images.githubusercontent.com/67186222/120105425-c8506f80-c193-11eb-8533-0be46aef75b4.jpg", width="40%">
 
 ## 📖 프로젝트 소개
 PIXIE는 Raspberry Pi 4를 이용한 딥러닝 영상 처리 기반 쓰레기 무단 투기 감시 CCTV입니다.

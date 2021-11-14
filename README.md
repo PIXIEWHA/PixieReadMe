@@ -7,8 +7,9 @@ PIXIE는 Raspberry Pi 4를 이용한 딥러닝 영상 처리 기반 쓰레기 �
 
 ## 😀 개발 배경
  1. 최근 코로나로 인해 폐기물 양이 증가하면서 쓰레기 무단 투기 근절의 필요성이 대두되었다.
- 2. 불법 폐기물 작년 8월 기준 39만 6천 톤
- 3. 불법폐기물 추적 및 관리 강화 등 폐기물 투기 억제를 위한 대책 마련이 시급해졌다.
+ 2. 아파트에 비해 관리 및 감시가 소홀한 주택가 쓰레기 무단 투기
+ 3. 불법 폐기물 작년 8월 기준 39만 6천 톤
+ 4. 불법폐기물 추적 및 관리 강화 등 폐기물 투기 억제를 위한 대책 마련이 시급해졌다.
 
 ## 👨‍👩‍👦 팀원 소개
 |학번|이름|
@@ -17,35 +18,43 @@ PIXIE는 Raspberry Pi 4를 이용한 딥러닝 영상 처리 기반 쓰레기 �
 |1876264|이민영|
 |1971030|유현정|
 
-## 📁 Requirement Specification
-![image](https://user-images.githubusercontent.com/67186222/119847320-d90ba600-bf45-11eb-84c9-e648fb23d688.png)
-
 ## 📲 System Architecture
-![image](https://user-images.githubusercontent.com/67186222/117320715-759ed300-aec7-11eb-8abe-a3721b39b437.png)
+![image](https://user-images.githubusercontent.com/67186222/141682460-11b75f69-d0f4-44aa-94a5-d3024348288f.png)
+
 
 ## ⚙️ 진행 상황
   1. HW Raspberry Pi
       - WIFI
-      - 영상 연동
+      - 영상 녹화 및 DB 저장
 
   2. SW 알고리즘
-      * YOLO 알고리즘/SSD 알고리즘
-        - 모델 학습 코드 실행
+      * Object Detection
         - 데이터 크롤링 및 AI Hub 영상 데이터 프레임 추출
-        - 쓰레기 및 사람 & 쓰레기 무단 투기 행위 학습
-        - 객체 좌표 추출
-        - 실시간 영상 인식 테스트
+        - 사람 & 손 혹은 팔과 함께 있는 물건 라벨링
+        - 무단 투기 행위 학습
+      
+      * Tracking Algorithm
+        - 객체 좌표 추출 및 Box Collision
+        - 영상 인식 테스트
+      
+      * OpenPose
+        - Coco Model
+        - 영상 테스트
 
   3. App
       - UI & Logo https://www.figma.com/file/F4vtMtcTMxIeKlkhGeQIvE/PIXIE?node-id=0%3A1
-      - aws 데이터베이스
+      - AWS & Firebase 데이터베이스
 
-  4. 공모전, SW 저작권, 특허
+  4. 공모전
+      * 제4회 KB소프트웨어 경진대회 입상(진행 중)
+  
+  5. SW 저작권(등록 중)
 
 ## 😀 기술 블로그
 - 유현정</br>
 [[21-1 캡B] 0. 영상 데이터 프레임 추출](https://whyou-story.tistory.com/34)</br>
 [[21-1 캡B] 1. Colab을 이용한 YOLOv5 Custom 학습 및 Inference](https://whyou-story.tistory.com/35)</br>
+[[21-1 캡A] 3. 라즈베리파이 초기 세팅 & 4. Docker 명령어 정리](https://whyou-story.tistory.com/45)</
 
 - 정해인</br>
 [[2021-1] SSD 알고리즘을 통한 Object Detection](https://study-ai-eun.tistory.com/1)</br>

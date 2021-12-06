@@ -1,5 +1,5 @@
 ## ❤️ 2021 캡스톤디자인프로젝트B : 딥러닝 기반 저비용 주택가 쓰레기 무단 투기 인식 시스템(PIXIE)
-<img src="https://user-images.githubusercontent.com/67186222/120105425-c8506f80-c193-11eb-8533-0be46aef75b4.jpg" width="40%">
+<img src="https://user-images.githubusercontent.com/67186222/120105425-c8506f80-c193-11eb-8533-0be46aef75b4.jpg" width="20%">    <img src="https://user-images.githubusercontent.com/67186222/144769445-dba8e1d7-5bfe-40d8-a6df-c95ec628c409.png" width="10%">
 
 ## 📖 프로젝트 소개
 PIXIE는 Raspberry Pi 4를 이용한 딥러닝 기반 저비용 주택가 쓰레기 무단 투기 감시 CCTV입니다.
@@ -46,8 +46,8 @@ PIXIE는 Raspberry Pi 4를 이용한 딥러닝 기반 저비용 주택가 쓰레
       - AWS & Firebase 데이터베이스
 
   4. 공모전
-      * 제4회 KB소프트웨어 경진대회 입상(본선 진행 중)
-      * 캡스톤디자인경진대회 은상
+      * **제4회 KB소프트웨어 경진대회 입상(본선 진행 중)**
+      * **캡스톤디자인경진대회 은상**
   
   5. SW 저작권(심사 중)
 

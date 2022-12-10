@@ -61,7 +61,7 @@
 | :------------------------ | :---------------------------------------------------------------------------------------------------------------------------------- |
 | <div align="center"/>HW RaspberryPI|- WIFI<br/>- 영상 녹화 및 Firebase에 업로드|
 | <div align="center"/>🔗[**SW 알고리즘(server)**](https://github.com/yhyeonjg/server)|- Object Detection<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 데이터 크롤링 및 AI Hub 영상 데이터 프레임 추출<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 사람 & 손 혹은 팔과 함께 있는 물건 라벨링<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 무단 투기 행위 학습<br/> - Tracking Algorithm<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 객체 좌표 추출 및 Box Collision<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 영상 인식 테스트<br/>- OpenPose<br/>&nbsp;&nbsp;&nbsp;&nbsp;- Coco Model로 사람 관절 인식<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 영상 테스트<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 사람과 물체 ID 좌표를 프레임별로 저장<br/>&nbsp;&nbsp;&nbsp;&nbsp;- 이전 프레임과 비교하여 사람은 있으나 물건 없고, 목-골반 선 < 45도 or 손목-발목 선 < 45도 투기 인식|
-| <div align="center"/>🔗[**프론트엔드**](https://github.com/yhyeonjg/frontEnd)|- 라즈베리파이 IP 등록<br/>- Firebase 서버에 있는 무단 투기 영상 확인<br/>- URL 복사하여 편리하게 무단 투기 신고|
+| <div align="center"/>🔗[**프론트엔드**](https://github.com/yhyeonjg/frontEnd)|- 라즈베리파이 IP 등록<br/>- Firebase 서버에 있는 무단 투기 영상 확인 및 알림<br/>- URL 복사하여 편리하게 무단 투기 신고|
 | <div align="center"/>🔗[**백엔드**](https://github.com/yhyeonjg/backEnd)|- aws에 회원정보 저장<br/>- 라즈베리파이 IP 관리<br/>- Firebase 영상 관리|
       
 <br /><br/>
